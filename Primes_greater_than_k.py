@@ -15,4 +15,3 @@ for i in range(n):
     if prime(b[i]) and b[i]>=k:
         c=c+1
 print(c)        
-    
