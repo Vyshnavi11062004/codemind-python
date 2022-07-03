@@ -13,3 +13,4 @@ for i in range(len(p2)):
     if p2[i] not in p1:
         c=c+1
 print(c)        
+        
