@@ -14,3 +14,4 @@ for i in range(n):
     if prime(b[i]):
         c=c+1
 print(c)        
+    
