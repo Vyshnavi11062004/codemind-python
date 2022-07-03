@@ -8,3 +8,4 @@ if c+1==n:
     print('yes')
 else:
     print('no')
+        
