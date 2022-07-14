@@ -10,3 +10,4 @@ if len(s)==26:
     print('True')
 else:
     print('False')
+        
