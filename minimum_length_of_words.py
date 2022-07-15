@@ -6,4 +6,4 @@ for i in s:
     c=len(i)
     if min>c:
         min=c
-print(min)      
+print(min)        
